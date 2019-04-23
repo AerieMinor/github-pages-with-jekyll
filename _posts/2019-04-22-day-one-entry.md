@@ -1,3 +1,8 @@
+---
+title: "Welcome to Aerie's blog"
+date: 2019-04-22
+---
+
 It's my first entry for Aerie's Blog!
 
 Thanks for stopping by to read my blog! Whether you're just taking a quick break, looking for some interesting- or mindless- material
